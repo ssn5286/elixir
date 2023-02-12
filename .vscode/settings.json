@@ -1,0 +1,11 @@
+{
+  "editor.autoClosingBrackets": "never",
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": false,
+  "emmet.includeLanguages": {
+    "html-eex": "html"
+  },
+  "json.schemas": [
+  
+  ]
+}
